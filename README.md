@@ -3,6 +3,17 @@
   <img src="assets/portadaGitHub.png" alt="Github Banner" width="1000">
 </p>
 
+## 🚀 About Me
+
+I recently graduated as a Computer Science Engineer at the Universidad Politécnica Salesiana (2025). I’m passionate about web design, full-stack development (with a stronger focus on frontend), and data analysis.
+
+🔭 I’m currently working as an independent UX/UI designer on a project, which has allowed me to deepen my knowledge and strengthen my skills in digital design and user experience. 👁️ I’m also dedicating time and effort to building my professional portfolio to showcase my achievements. ✨
+
+🤝 I’m looking to collaborate on projects related to web design and development, as well as data analysis initiatives. ✉️ You can contact me at zelejimenez1604h@gmail.com.
+
+🌱 I’m currently learning React.js, and my goal for 2026 is to continue specializing in data analysis —possibly through a master’s degree— as it’s an area that truly fascinates me.
+
+Outside of the tech world, 📖 I love reading classic novels, 🎞️ watching movies, and 🎵 listening to music.
 
 ## Skills
 Languages:
